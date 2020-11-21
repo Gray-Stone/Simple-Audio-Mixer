@@ -1,7 +1,8 @@
 # Simple 2-in-1-out Audio Merger
+ Design choices and reason for decision  
 
-## Design choices and reason for decision
-
+  
+  
 Overview 
 =========
 
